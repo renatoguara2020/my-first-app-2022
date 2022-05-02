@@ -1,13 +1,10 @@
-
 import './App.css';
-import Example from './componentes/Example';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       <Example/>
-      </header>
+       <h1>Estudando React com Cesar Celke</h1>
     </div>
   );
 }
